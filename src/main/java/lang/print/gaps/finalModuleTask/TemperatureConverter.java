@@ -9,7 +9,7 @@ public class TemperatureConverter {
 
         System.out.println(farenheit);
     }
-    public void fiveToFahrenheit(int temperatureCelsius){
+    public void toFahrenheitConvert5ToFahrenheit(int temperatureCelsius){
 
         temperatureCelsius = 5;
 
